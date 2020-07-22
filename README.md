@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MyLocalCode.MyLocalCode)
+
+- 🌱 I’m currently learning JavaScript and ES6
+- 💬 Ask me about anything tech realted
+- ⚡ Fun fact: JS is magic :sparkles:
+
 <!--
 **MyLocalCode/MyLocalCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
